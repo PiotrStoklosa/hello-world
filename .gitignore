@@ -1,0 +1,20 @@
+# Intellij IDEA
+.idea/
+
+# Gradle files
+.gradle/
+build/
+out/
+
+# Compiled bytecode
+*.class
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# db
+users.db
